@@ -3,12 +3,12 @@ entries:
   fluxcloud:
   - apiVersion: v2
     appVersion: v0.3.9
-    created: "2020-03-28T13:55:58.551744674Z"
+    created: "2020-03-28T14:05:51.147998873Z"
     description: Fluxcloud
-    digest: 13a347c7a44e7cb25082f5ab536d126a7507e738de41f6f796da5d36b33a65d6
+    digest: 23b5ed80e5c2bbd94691fc8314467340a82b3d51b5265d3b163da4cd7220f507
     name: fluxcloud
     type: application
     urls:
     - fluxcloud-0.1.0.tgz
     version: 0.1.0
-generated: "2020-03-28T13:55:58.551121274Z"
+generated: "2020-03-28T14:05:51.139241488Z"
