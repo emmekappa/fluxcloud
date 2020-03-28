@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  fluxcloud:
+  - apiVersion: v2
+    appVersion: v0.3.9
+    created: "2020-03-28T13:55:58.551744674Z"
+    description: Fluxcloud
+    digest: 13a347c7a44e7cb25082f5ab536d126a7507e738de41f6f796da5d36b33a65d6
+    name: fluxcloud
+    type: application
+    urls:
+    - fluxcloud-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-03-28T13:55:58.551121274Z"
